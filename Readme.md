@@ -1,3 +1,4 @@
+***Development in-progress***
 # Library Management - MEAN App
 
 This is a sample project built in **Nodejs and Angular**. Production ready application developed with all the best practices.
