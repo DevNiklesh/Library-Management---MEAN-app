@@ -6,6 +6,7 @@ This is a sample project built in **Nodejs and Angular**. Production ready appli
 ## To Run this app
 First clone the repository,
 
-`$ cd node-app` 
-`$ npm install`
- `$ npm run` 
+ - `$ cd node-app`  
+ - `$ npm install` 
+ -  `$ npm run`
+
