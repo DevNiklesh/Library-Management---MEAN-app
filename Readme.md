@@ -8,5 +8,6 @@ First clone the repository,
 
  - `$ cd node-app`  
  - `$ npm install` 
- -  `$ npm run`
+ - `$ npm run`
+
 
