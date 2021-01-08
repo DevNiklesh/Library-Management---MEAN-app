@@ -1,0 +1,9 @@
+Mongodb connection URL
+
+mongodb+srv://devApp:<password>@trial-db.o6nml.mongodb.net/<dbname>?retryWrites=true&w=majority
+
+password: devApp
+dbname: Trial-db
+
+
+------------------------------------------------------------------------------------
